@@ -1,0 +1,8 @@
+//USER
+export const SET_USER = 'SET_USER';
+
+//CASH FLOW
+export const SET_FLUX_CREDIT = 'SET_FLUX_CREDIT';
+export const SET_FLUX_DEBIT = 'SET_FLUX_DEBIT';
+export const SET_CASH_FLOW = 'SET_CASH_FLOW';
+export const COPY_MONTH_CASH_FLOW = 'COPY_MONTH_CASH_FLOW';
